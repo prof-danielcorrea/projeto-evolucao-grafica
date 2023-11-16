@@ -1,10 +1,9 @@
 # Projeto Evolução Gráfica dos jogos
 
+O tema acima foi escolhido pelos alunos, para ser apresentado no Fórum de Informática.
 
-## 🚀 Tecnologias:
+Então pensamos em um projeto que pudessemos estar desenvolvendo em aula, aplicando a matéria e trabalhando o aprendizado, juntamente com os alunos da disciplina de Des. Web, do curso técnico de informática do Colégio Betel.
 
-Esse projeto foi desenvolvido em aula, juntamente com os alunos da disciplina de Des. Web, do curso técnico de informática do Colégio Betel.
-Para ser apresentado no Fórum de Informática 2023.
 
 
 ## 🚀 Tecnologias e 📚 Conhecimentos colocados em prática:
@@ -14,7 +13,7 @@ Para ser apresentado no Fórum de Informática 2023.
 - JavaScript
 - Responsividade 🖥️ 💻📲
 
-## 🚧 Projeto:
+## 🚧 Projeto do Fórum de Informática 2023:
 
 <br>
 
